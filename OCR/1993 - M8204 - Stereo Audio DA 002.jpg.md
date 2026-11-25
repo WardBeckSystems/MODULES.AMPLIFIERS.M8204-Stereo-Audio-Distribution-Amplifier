@@ -89,7 +89,7 @@ Ward-Beck Systems Ltd:
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M8204/PHOTOS/1993 - M8204 - Stereo Audio DA 002.jpg",
+ "file": "Modules/AMPLIFIERS/M8204/MANUALS/1993 - M8204 - Stereo Audio DA 002.jpg",
  "sha256": "a9994ec6e0c5aa916ee0d008d1cbc7ff2fcf0875f352ecaef74574d6294904e1",
  "kind": "module",
  "models": [

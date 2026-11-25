@@ -4,13 +4,13 @@ Ward-Beck Systems M8204, 1993|26. Wiki page: [M8204 on WBSps.ca](https://wardbec
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 4 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 3 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 6 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 5 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 7 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 4 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 15 |
 
 ## Photos
@@ -18,7 +18,6 @@ Ward-Beck Systems M8204, 1993|26. Wiki page: [M8204 on WBSps.ca](https://wardbec
 _Photographs of the module itself: front, back, inside, racked._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1i9FWKe8BvhHB6JbqoCT14Q9D81bdTvCh/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1i9FWKe8BvhHB6JbqoCT14Q9D81bdTvCh" width="240" alt="1993 - M8204 - Information Sheet (8200 Series).jpg"></a><br><sub>1993|26 · Information Sheet (8200 Series)</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSy1XNVE4Y3ZLb3M/view?resourcekey=0-3z7VG9ERVvZxEhltyBs3FQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSy1XNVE4Y3ZLb3M&resourcekey=0-3z7VG9ERVvZxEhltyBs3FQ" width="240" alt="1993 - M8204 - Stereo Audio DA 001.jpg"></a><br><sub>1993|26 · Stereo Audio DA 001</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMWpjTWc4XzJDYWs/view?resourcekey=0-NewIviA-1a1h2SztZK4fvw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMWpjTWc4XzJDYWs&resourcekey=0-NewIviA-1a1h2SztZK4fvw" width="240" alt="1993 - M8204 - Stereo Audio DA 002.jpg"></a><br><sub>1993|26 · Stereo Audio DA 002</sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKT3NoY0NZejVjaTA/view?resourcekey=0-dJoEXKqtzOm5ABCrZFb3HA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKT3NoY0NZejVjaTA&resourcekey=0-dJoEXKqtzOm5ABCrZFb3HA" width="240" alt="1993 - M8204 - Stereo Audio DA 003.jpg"></a><br><sub>1993|26 · Stereo Audio DA 003</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRzBvTmpmcHhlejA/view?resourcekey=0-IPhxnYG3TUQqDpTBC489yA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRzBvTmpmcHhlejA&resourcekey=0-IPhxnYG3TUQqDpTBC489yA" width="240" alt="1993 - M8204 - file.jpg"></a><br><sub>1993|26 · file</sub></td></tr>
 </table>
 
@@ -37,6 +36,7 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ads and other document scans._
 
 <table>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1i9FWKe8BvhHB6JbqoCT14Q9D81bdTvCh/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1i9FWKe8BvhHB6JbqoCT14Q9D81bdTvCh" width="240" alt="1993 - M8204 - Information Sheet (8200 Series).jpg"></a><br><sub>1993|26 · Information Sheet (8200 Series)</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSy1XNVE4Y3ZLb3M/view?resourcekey=0-3z7VG9ERVvZxEhltyBs3FQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSy1XNVE4Y3ZLb3M&resourcekey=0-3z7VG9ERVvZxEhltyBs3FQ" width="240" alt="1993 - M8204 - Stereo Audio DA 001.jpg"></a><br><sub>1993|26 · Stereo Audio DA 001</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMWpjTWc4XzJDYWs/view?resourcekey=0-NewIviA-1a1h2SztZK4fvw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMWpjTWc4XzJDYWs&resourcekey=0-NewIviA-1a1h2SztZK4fvw" width="240" alt="1993 - M8204 - Stereo Audio DA 002.jpg"></a><br><sub>1993|26 · Stereo Audio DA 002</sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVW1Pa0pfVUc0ZmM/view?resourcekey=0-tLgWp0fJxpXKoOcEMWEfbw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVW1Pa0pfVUc0ZmM&resourcekey=0-tLgWp0fJxpXKoOcEMWEfbw" width="240" alt="19xx - M8204 - DOC - 8204 brochure a.jpg"></a><br><sub>19xx - M8204 - DOC - 8204 brochure a</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWldhNXRIU2ZuUWM/view?resourcekey=0-Q48a9AEY_xR6VtseRTwvTw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWldhNXRIU2ZuUWM&resourcekey=0-Q48a9AEY_xR6VtseRTwvTw" width="240" alt="19xx - M8204 - DOC - 8212 brochure a.jpg"></a><br><sub>19xx - M8204 - DOC - 8212 brochure a</sub></td></tr>
 </table>
 
@@ -47,6 +47,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [M8204.kicad_sym](KICAD/M8204.kicad_sym)
 - [PCB 14-265 - M8204](KICAD/PCB%2014-265%20-%20M8204)
 - [PCB M8205W - M8204](KICAD/PCB%20M8205W%20-%20M8204)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
