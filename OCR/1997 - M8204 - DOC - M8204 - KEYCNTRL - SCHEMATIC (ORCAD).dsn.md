@@ -1,5 +1,5 @@
 # 1997 - M8204 - DOC - M8204 - KEYCNTRL - SCHEMATIC (ORCAD).dsn
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** 1997 (found in this ad: "AUG 26, 1997")
@@ -254,7 +254,7 @@ ExportBlocks Directory
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M8204/1997 - M8204 - DOC - M8204 - KEYCNTRL - SCHEMATIC (ORCAD).dsn",
+ "file": "Modules/AMPLIFIERS/M8204/SCHEMATICS/1997 - M8204 - DOC - M8204 - KEYCNTRL - SCHEMATIC (ORCAD).dsn",
  "sha256": "9e73bfe6ad7a606477f4ba3a051df9273129518c39330a11f9e4b644329b0a5e",
  "kind": "doc",
  "models": [

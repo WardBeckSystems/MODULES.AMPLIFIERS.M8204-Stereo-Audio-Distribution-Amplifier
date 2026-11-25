@@ -1,5 +1,5 @@
 # 1993 - M8204 - Stereo Audio DA 001.jpg
-Wiki page: [M8204](../../../PAGES/M8204.md)
+Wiki page: [M8204](../../../../PAGES/M8204.md)
 
 
 - **Year:** 1993 (module estimate (month))
@@ -83,7 +83,7 @@ WBS WARD-BECK SYSTEMS
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M8204/1993 - M8204 - Stereo Audio DA 001.jpg",
+ "file": "Modules/AMPLIFIERS/M8204/PHOTOS/1993 - M8204 - Stereo Audio DA 001.jpg",
  "sha256": "59efd4198eabdefee8101e1f5f020d0a05cd2b42a47873ab1105e941c5debf7b",
  "kind": "module",
  "models": [

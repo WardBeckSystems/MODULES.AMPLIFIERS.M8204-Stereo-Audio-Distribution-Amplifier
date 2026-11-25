@@ -1,5 +1,5 @@
 # 1993 - M8204 - Stereo Audio DA 003.jpg
-Wiki page: [M8204](../../../PAGES/M8204.md)
+Wiki page: [M8204](../../../../PAGES/M8204.md)
 
 
 - **Year:** 1993 (module estimate (month))
@@ -29,7 +29,7 @@ GNDI
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M8204/1993 - M8204 - Stereo Audio DA 003.jpg",
+ "file": "Modules/AMPLIFIERS/M8204/PHOTOS/1993 - M8204 - Stereo Audio DA 003.jpg",
  "sha256": "d0c03f626b334b76a6099117a648230045a1aff6953cca2640007e95b400e419",
  "kind": "module",
  "models": [

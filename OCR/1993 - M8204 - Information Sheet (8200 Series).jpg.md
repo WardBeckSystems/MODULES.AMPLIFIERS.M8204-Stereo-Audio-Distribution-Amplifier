@@ -1,5 +1,5 @@
 # 1993 - M8204 - Information Sheet (8200 Series).jpg
-Wiki page: [M8204](../../../PAGES/M8204.md)
+Wiki page: [M8204](../../../../PAGES/M8204.md)
 
 
 - **Year:** 1993 (module estimate (month))
@@ -65,7 +65,7 @@ WARD-BECK SYSTEMS INC FIRST BY DESIGN 945 Middlefield Road Toronto, Ontario Cana
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M8204/1993 - M8204 - Information Sheet (8200 Series).jpg",
+ "file": "Modules/AMPLIFIERS/M8204/PHOTOS/1993 - M8204 - Information Sheet (8200 Series).jpg",
  "sha256": "9e6af8aa068f6488ed06e45d430fef11bf49f86682dbdd0f0a6eabcb99c17ee7",
  "kind": "module",
  "models": [

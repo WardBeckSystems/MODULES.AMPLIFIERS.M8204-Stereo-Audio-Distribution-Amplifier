@@ -1,5 +1,5 @@
 # 2004 - M8204 - OnlineDRC.ERR.txt
-Wiki page: [M8204](../../../PAGES/M8204.md)
+Wiki page: [M8204](../../../../PAGES/M8204.md)
 
 
 - **Year:** 2004 (original file date 2004-05-05)
@@ -87,7 +87,7 @@ WIDTH VIOLATIONS:
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M8204/2004 - M8204 - OnlineDRC.ERR.txt",
+ "file": "Modules/AMPLIFIERS/M8204/SCHEMATICS/2004 - M8204 - OnlineDRC.ERR.txt",
  "sha256": "9130d6059c4e3ac4faaa78b70231229f7c3fde62722bdc11ca0d1539816393a1",
  "kind": "module",
  "models": [

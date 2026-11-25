@@ -1,5 +1,5 @@
 # 1998 - M8204 - DOC - M8204 - IRK10B - SCHEMATIC (ORCAD).dsn
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** 1998 (found in this ad: "APRIL 23, 1998")
@@ -266,7 +266,7 @@ ExportBlocks Directory
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M8204/1998 - M8204 - DOC - M8204 - IRK10B - SCHEMATIC (ORCAD).dsn",
+ "file": "Modules/AMPLIFIERS/M8204/SCHEMATICS/1998 - M8204 - DOC - M8204 - IRK10B - SCHEMATIC (ORCAD).dsn",
  "sha256": "4a89856dbaf6e58676299b9901b5d049b1bc88db554e089a3ee9fce44cee681f",
  "kind": "doc",
  "models": [
