@@ -4,13 +4,12 @@ Ward-Beck Systems M8204, 1993|26. Wiki page: [M8204 on WBSps.ca](https://wardbec
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 5 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 12 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 7 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 4 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 4 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 6 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 15 |
 
 ## Photos
@@ -21,8 +20,6 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKT3NoY0NZejVjaTA/view?resourcekey=0-dJoEXKqtzOm5ABCrZFb3HA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKT3NoY0NZejVjaTA&resourcekey=0-dJoEXKqtzOm5ABCrZFb3HA" width="240" alt="1993 - M8204 - Stereo Audio DA 003.jpg"></a><br><sub>1993|26 · Stereo Audio DA 003</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRzBvTmpmcHhlejA/view?resourcekey=0-IPhxnYG3TUQqDpTBC489yA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRzBvTmpmcHhlejA&resourcekey=0-IPhxnYG3TUQqDpTBC489yA" width="240" alt="1993 - M8204 - file.jpg"></a><br><sub>1993|26 · file</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M8204 - PXL_20201216_211548517.jpg`
-
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
@@ -30,6 +27,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1h7QoJ9t8kbPlgKXbLtsFQMsrG5v5nEo9/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1h7QoJ9t8kbPlgKXbLtsFQMsrG5v5nEo9" width="240" alt="1994 - M8204 - DOC - 940444-03-004 - CARD TUBS NOTE REVOVE ALL BURRS AND SHARP.jpg"></a><br><sub>1994|27 · DOC - 940444-03-004 - CARD TUBS NOTE REVOVE ALL BURRS AND SHARP · <a href="MECHANICAL/1994%20-%20M8204%20-%20DOC%20-%20940444-03-004%20-%20CARD%20TUBS%20NOTE%20REVOVE%20ALL%20BURRS%20AND%20SHARP%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1LGVN5Vyd4RQs1LU7peadIQ2pnBHpRf3x/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1LGVN5Vyd4RQs1LU7peadIQ2pnBHpRf3x" width="240" alt="1994 - M8204 - DOC - 940444-04-004 - HYBRID UTL UTL HYBRID HYBRID CUTPUTS CORD REAR.jpg"></a><br><sub>1994|27 · DOC - 940444-04-004 - HYBRID UTL UTL HYBRID HYBRID CUTPUTS CORD REAR · <a href="MECHANICAL/1994%20-%20M8204%20-%20DOC%20-%20940444-04-004%20-%20HYBRID%20UTL%20UTL%20HYBRID%20HYBRID%20CUTPUTS%20CORD%20REAR%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
+
+## 3-D model
+
+[`MECHANICAL/M8204.stl`](MECHANICAL/M8204.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M8204)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (assumed: 1.6" x 7" x 6.5", the common module)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M8204 - front panel.svg`)
+- no drawing of the front panel: the panel is blank
+- Made by `tools/module_models.py` (→ `MECHANICAL/M8204.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Manuals and documents
 
@@ -47,7 +53,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [M8204.kicad_sym](KICAD/M8204.kicad_sym)
 - [PCB 14-265 - M8204](KICAD/PCB%2014-265%20-%20M8204)
 - [PCB M8205W - M8204](KICAD/PCB%20M8205W%20-%20M8204)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
