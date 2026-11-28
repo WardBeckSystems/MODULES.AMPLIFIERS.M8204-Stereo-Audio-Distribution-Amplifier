@@ -1,5 +1,5 @@
 # 1993 - M8204 - Stereo Audio DA 001.jpg
-Wiki page: [M8204](../../../../PAGES/M8204.md)
+Wiki page: [M8204](../)
 
 
 - **Year:** 1993 (module estimate (month))

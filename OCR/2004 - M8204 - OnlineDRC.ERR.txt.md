@@ -1,5 +1,5 @@
 # 2004 - M8204 - OnlineDRC.ERR.txt
-Wiki page: [M8204](../../../../PAGES/M8204.md)
+Wiki page: [M8204](../)
 
 
 - **Year:** 2004 (original file date 2004-05-05)

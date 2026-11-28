@@ -1,5 +1,5 @@
 # 1993 - M8204 - Information Sheet (8200 Series).jpg
-Wiki page: [M8204](../../../../PAGES/M8204.md)
+Wiki page: [M8204](../)
 
 
 - **Year:** 1993 (module estimate (month))
