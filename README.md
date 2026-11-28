@@ -49,9 +49,5 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [PCB M8205W - M8204](KICAD/PCB%20M8205W%20-%20M8204)
 - [index.html](KICAD/index.html)
 
-## Software
-
-- [index.html](SOFTWARE/index.html)
-
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
